@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/svnvav/angularBasics#readme",
   "dependencies": {
+    "angular": "^1.6.2",
     "express": "^4.15.0"
   }
 }
